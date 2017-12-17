@@ -1,0 +1,5 @@
+server.port: 9090
+spring.cache.jcache.provider: com.hazelcast.client.cache.impl.HazelcastClientCachingProvider
+
+arkenian.server.path: D:\subject_repo\node_1
+arkenian.rules.exclude: Rule_2011,Rule_2012
